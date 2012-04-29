@@ -8,7 +8,7 @@ For any **question** goto [issues](https://github.com/1schools/web_programming_b
 
 Please **help each other** to learn better by answer questions and describe about codes
 
--Other notices- 
+Notices:
 
 If you want to use git with command-line like me, remember [ali.md/help/git](http://ali.md/help/git)
 
