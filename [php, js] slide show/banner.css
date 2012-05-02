@@ -6,10 +6,15 @@
 	padding:0;
 }
 
+body{
+	background-image:url(images/2.jpg);
+	}
+
 div.container{
 	width:980px;
 	margin:0 auto;
 	padding-top:1px;
+
 }
 
 div.banner{
@@ -94,3 +99,6 @@ div.banner ul.btn li.active{
 	-webkit-transition-duration:200ms;
 }
 
+div.back{
+	background-image:url(images/back.png);	
+}

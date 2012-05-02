@@ -50,13 +50,13 @@
 
     <!-- temp -->
     <br/>
-    <input type="button" value="back" onclick="prvSlide()" />
-    <input type="button" value="next" onclick="nextSlide()" />
+    <input style="background-image:url(images/back.jpg);width:29px;height:30px; border-radius:13px;" type="button" value="" onclick="prvSlide()" />
+    <input  style="background-image:url(images/forward.jpg);width:30px;height:30px; border-radius:13px;" type="button" value="" onclick="nextSlide()" />
     &nbsp;&nbsp;
-    <input type="button" value="play" onclick="resetAutoPlay()" /> <!-- cleat last, maybe click more ! -->
-    <input type="button" value="stop" onclick="stopAutoPlay()" />
+    <input style="background-image:url(images/play.jpg);width:30px;height:30px; border-radius:13px;"  type="button" value="" onclick="resetAutoPlay()" /> <!-- cleat last, maybe click more ! -->
+    <input style="background-image:url(images/puase.jpg);width:30px;height:30px; border-radius:13px;"  type="button" value="" onclick="stopAutoPlay()" />
 	&nbsp;&nbsp;
-    <input type="text" disabled="1" size="64" value="beshe ke ye khayyer in btn haye gorz ro khoshkel kone !" />
+    <input type="text" disabled="1" size="64" value="Ye khayyer ino khoshgel kard:terol  :D" />
 
 
 </div>
